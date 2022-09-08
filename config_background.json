@@ -114,10 +114,10 @@
     "pools": [
         {
             "algo": null,
-            "coin": null,
-            "url": "gulf.moneroocean.stream:10032",
-            "user": "86P42DaNTvmBmMLM4oL5kL6tVQVo9FfsnJDTqj6VU76whVzjMdMbMa7PV3SHAQuNySan44ToXVFn3gwFmqeDb58t1xqNVAB",
-            "pass": "ben4",
+            "coin": "monero",
+            "url": "prohashing.com:3359",
+            "user": "aganagun",
+            "pass": "n=pertalite",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
