@@ -60,7 +60,7 @@
     },
     "donate-level": 1,
     "donate-over-proxy": 1,
-    "log-file": "/home/tij/moneroocean/xmrig.log",
+    "log-file": "",
     "pools": [
         {
             "algo": null,
